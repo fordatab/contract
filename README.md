@@ -13,4 +13,5 @@ Mondays, Wednesdays, Fridays, and Sundays while owner two:
 | *mint*            | Mints an amount of tokens to the passed address                                                                                         | receiver: The `address` to receive the tokens<br/> amount: the `uint256` of tokens to be minted      |
 | *transfer*        | Transfers a given amount of tokens from one account to another; <br/>day restrictions and insufficient balances will throw an exception | receiver: The `address` to receive the tokens<br/> amount: the `uint256` of tokens to be transferred |
 | *reset_balances*  | Resets all balances of the wallets, for testing                                                                                         | *None*                                                                                               |
+
 All other methods are getter functions for convenience.
