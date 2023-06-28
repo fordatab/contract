@@ -1,5 +1,5 @@
 # Using the contract
-Download the contract from this link: [contract](https://github.com/fordatab/contract/blob/main/contract%20(1).sol)\
+Download the contract from this link: [contract](https://github.com/fordatab/contract/blob/main/contract.sol)\
 First, compile the contract in the IDE and then deploy it with either 
 account `0x5B38Da6a701c568545dCfcB03FcB875f56beddC4` or account 
 `0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2`.\
