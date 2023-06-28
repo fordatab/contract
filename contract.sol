@@ -74,15 +74,6 @@ contract Token {
     error InsufficientBalance(uint requested, uint available);
     error CannotTransfer(uint time);
 
-    // Getter functions
-    function get_owner_1() public view returns (address) {
-        return owner_1;
-    }
-
-    function get_owner_2() public view returns (address) {
-        return owner_2;
-    }
-
     function get_owner_1_balace() public view returns (uint) {
         return balances[owner_1];
     }
